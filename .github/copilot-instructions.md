@@ -18,11 +18,13 @@ IBM App Connect Enterprise (formerly IBM Integration Bus) is an enterprise integ
 - Used in Compute nodes, Filter nodes, and Database nodes
 - Manipulates message trees (InputRoot, OutputRoot, Environment)
 - File extension: `.esql`
+- For ESQL development standards, refer to the ESQL instructions at [.github/instructions/esql.instructions.md](.github/instructions/esql.instructions.md)
 
 ### Message Flows (.msgflow)
 - Visual integration flows built in App Connect Enterprise Toolkit
 - Contains nodes for routing, transformation, and external system connectivity
 - File extension: `.msgflow`
+- For msgflow development standards, refer to [docs/messageflow_dev.md](docs/messageflow_dev.md)
 
 ### Message Models
 - Define data structures for messages (DFDL, XSD, JSON schemas)
